@@ -1,4 +1,4 @@
--- I DIDN'T MAKE Ballistic, FULL CREDITS TO https://v3rmillion.net/member.php?action=profile&uid=1431869 FOR THIS AWESOME LIBRARY
+-- I DIDN'T MAKE SHAMAN, FULL CREDITS TO https://v3rmillion.net/member.php?action=profile&uid=1431869 FOR THIS AWESOME LIBRARY
 
 local CoreGui = game:GetService("CoreGui")
 local TweenService = game:GetService("TweenService")
